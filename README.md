@@ -13,3 +13,5 @@ Backend:
 Solidity smart contract for storing and retrieving messages
 Blockchain:
 Ethereum Blockchain with MetaMask integration
+THE BASIC SITE OF HOLIDAY WEBSITE-
+https://soumyaja29.github.io/blockchain-holiday-application/?message=8709
